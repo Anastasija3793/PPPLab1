@@ -3,7 +3,7 @@
 This is a test of github so far today I have done the following
 
 ~~~
-332  git status
+  332  git status
   333  git config
   334  git config --global --list
   335  git config --global user.name "Anastasija"
