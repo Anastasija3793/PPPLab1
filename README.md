@@ -2,7 +2,7 @@
 
 This is a test of github so far today I have done the following
 
-...
+,,,
 332  git status
   333  git config
   334  git config --global --list
@@ -30,4 +30,4 @@ This is a test of github so far today I have done the following
   368  history | greb git
   369  history | grep git
 
-...
+,,,
